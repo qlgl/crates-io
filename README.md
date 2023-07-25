@@ -2,7 +2,7 @@
 
 ``` bash
 [registries."qlgl"]
-index = "https://github.com/shellcodesniper/crates.io.git"
+index = "https://github.com/qlgl/crates.io.git"
 
 [registreis."caramella"]
 index = "https://it.caramella.kr/crates.io/index.git"
