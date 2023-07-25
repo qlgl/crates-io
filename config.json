@@ -1,0 +1,6 @@
+{
+	    "dl": "https://crates.ql.gl/api/v1/crates/{crate}/{version}/download",
+	        "api": "https://crates.ql.gl/",
+		    "allowed-registries": ["https://github.com/rust-lang/crates.io-index"]
+}
+
